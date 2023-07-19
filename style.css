@@ -186,3 +186,10 @@ footer a{
 .headerBanco{
     margin-top: 18%;
 }
+
+
+@media (max-width: 767px) {
+    img {
+      width: 100%; /* Ancho del 100% en dispositivos móviles */
+    }
+  }
