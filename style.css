@@ -42,12 +42,12 @@ body{
 }
 
 
-   
+
 .imgBanco{
     width: 15px;
     height: 15px;
     float: left;
-     margin-top: 5%;
+    margin-top: 5%;
     margin-left: 5%;
 }
 
@@ -188,8 +188,3 @@ footer a{
 }
 
 
-@media (max-width: 767px) {
-    img {
-      width: 100%; /* Ancho del 100% en dispositivos móviles */
-    }
-  }
